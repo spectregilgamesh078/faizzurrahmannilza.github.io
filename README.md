@@ -1,2 +1,2 @@
 # faizzurrahmannilza.github.io
-Portofolio Digital (Geospatial Analyst)
+Portofolio Digital (Geospatial Data Analyst)
